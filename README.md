@@ -1,0 +1,1 @@
+# SIGNAL_CHAT_APP_ReactNative
